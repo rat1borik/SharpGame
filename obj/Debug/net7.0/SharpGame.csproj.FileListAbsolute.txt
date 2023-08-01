@@ -1,0 +1,15 @@
+D:\Docs\SharpGame\bin\Debug\net7.0\SharpGame.exe
+D:\Docs\SharpGame\bin\Debug\net7.0\SharpGame.deps.json
+D:\Docs\SharpGame\bin\Debug\net7.0\SharpGame.runtimeconfig.json
+D:\Docs\SharpGame\bin\Debug\net7.0\SharpGame.dll
+D:\Docs\SharpGame\bin\Debug\net7.0\SharpGame.pdb
+D:\Docs\SharpGame\obj\Debug\net7.0\SharpGame.csproj.AssemblyReference.cache
+D:\Docs\SharpGame\obj\Debug\net7.0\SharpGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\SharpGame\obj\Debug\net7.0\SharpGame.AssemblyInfoInputs.cache
+D:\Docs\SharpGame\obj\Debug\net7.0\SharpGame.AssemblyInfo.cs
+D:\Docs\SharpGame\obj\Debug\net7.0\SharpGame.csproj.CoreCompileInputs.cache
+D:\Docs\SharpGame\obj\Debug\net7.0\SharpGame.dll
+D:\Docs\SharpGame\obj\Debug\net7.0\refint\SharpGame.dll
+D:\Docs\SharpGame\obj\Debug\net7.0\SharpGame.pdb
+D:\Docs\SharpGame\obj\Debug\net7.0\SharpGame.genruntimeconfig.cache
+D:\Docs\SharpGame\obj\Debug\net7.0\ref\SharpGame.dll

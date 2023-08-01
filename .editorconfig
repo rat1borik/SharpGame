@@ -1,0 +1,6 @@
+root = true
+
+[*]
+indent_style = tab
+csharp_new_line_before_open_brace = false
+tab_width = 4
